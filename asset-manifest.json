@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QueAnsPage/static/css/main.1a0f95e6.css",
+    "main.js": "/QueAnsPage/static/js/main.d2c9638b.js",
+    "static/js/787.abece71b.chunk.js": "/QueAnsPage/static/js/787.abece71b.chunk.js",
+    "index.html": "/QueAnsPage/index.html",
+    "main.1a0f95e6.css.map": "/QueAnsPage/static/css/main.1a0f95e6.css.map",
+    "main.d2c9638b.js.map": "/QueAnsPage/static/js/main.d2c9638b.js.map",
+    "787.abece71b.chunk.js.map": "/QueAnsPage/static/js/787.abece71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0f95e6.css",
+    "static/js/main.d2c9638b.js"
+  ]
+}
